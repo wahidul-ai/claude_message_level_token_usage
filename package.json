@@ -2,7 +2,7 @@
 	"name": "claude-message-level-token-usage",
 	"displayName": "Claude Message Level Token Usage",
 	"description": "Shows per-turn token usage and estimated cost for Claude Code in the VS Code status bar.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "YOUR_PUBLISHER_ID",
 	"repository": {
 		"type": "git",
