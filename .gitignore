@@ -2,3 +2,4 @@ node_modules/
 *.vsix
 *.vsixmanifest
 .vscode-test/
+.DS_Store
