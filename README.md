@@ -2,6 +2,8 @@
 
 Shows per-turn token usage and estimated cost for Claude Code in the VS Code status bar.
 
+![Claude Message Level Token Usage screenshot](screenshot.png)
+
 ## Why /compact saves you money
 
 Claude Code sends your **entire conversation history** with every message. As a session grows, that context accumulates — you end up paying for the same earlier messages over and over. Running `/compact` summarizes the history into a short digest, which can cut token costs by **60–80%** mid-session without losing the thread of the conversation.
